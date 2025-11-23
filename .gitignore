@@ -2,7 +2,7 @@
 *.d
 
 # binaries
-ex?
+ex??
 
 # Object files
 *.o
